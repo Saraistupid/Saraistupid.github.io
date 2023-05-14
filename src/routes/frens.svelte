@@ -45,6 +45,10 @@
                     <h2>Ramendan</h2>
                     <p>The only Omani guy I know, a really nice person, he will never be a real woman !!, I don't have much else to say, just have his Discord ramendan#4655.
                     <br>
+
+                    <h2>jakanz (AKA. jaiden)</h2>
+                    <p>Some tranny I just met recently, she seems cool, please bully her on <a href="https://twitter.com/jakanzik">Twitter</a> for me, she has a <a href="https://jakanz.github.io/">website</a> too!!
+                    <br>
                 </p>
                 </div>
             </div>
