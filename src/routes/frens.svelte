@@ -21,11 +21,19 @@
                 </h2>
                 <p>
                     <h2>Lusii (My girlfriend)</h2>
-                    <p>My girlfriend since 10/10/2020, she means a lot to me and we've done so much for each other, here's her <a href="https://twitter.com/Lusii_Meow">Twitter!</a>
+                    <p>My girlfriend since 10/10/2020, she means a lot to me and we've done so much for each other, the only true love I ever had in my life and the only person I'm living for and trying to improve myself for.
+                    <br>
+                    Here's her <a href="https://twitter.com/Lusii_Meow">Twitter.</a> Please don't attack her or annoy her about my actions, thank you.
                     <br>
 
                     <h2>Aradia (AKA. Diana)</h2>
-                    <p>My online best friend (not even bestie, my literal best friend), she's a really cool person who's almost like me, here's her <a href="https://github.com/AradiaIsStupid/">GitHub</a>!
+                    <p>My online best friend (not even "bestie", she's my literal best friend), she's a really cool person who's almost like me, here's her <a href="https://github.com/AradiaIsStupid/">GitHub</a>!
+                    <br>
+
+                    <h2>AshiodyneFX (AKA. Ashiodyne, Ashley)</h2>
+                    <p>My second online best friend, her and Aradia are the two friends I have that I would do literally <i>anything</i> for, she has helped me so much and I am grateful for it, won't be a stretch to say that they both are the reason I lived this far to be honest.
+                    <br>
+                    She has a <a href="https://twitter.com/Ashiodyne">Twitter</a> but she isn't active there at all.
                     <br>
 
                     <h2>Rushia</h2>
