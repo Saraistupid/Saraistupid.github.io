@@ -1,0 +1,161 @@
+body {
+	min-width: 960px;
+  }
+  
+  .container_4 {
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 960px;
+    
+  }
+  
+  .header {
+    float: right;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .notre {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 6px;
+    width: 940px;
+    margin-bottom: 10px;
+    background-color: #333;
+    border-radius: 10px;
+    /*-webkit-box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.38); 
+    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.38);*/
+  }
+  
+  .grid_1,
+  .grid_2,
+  .grid_3,
+  .grid_4,
+  .navbarwrap {
+	  float: left;
+	  position: relative;
+	  margin-left: 10px;
+    margin-right: 10px;
+    
+  }
+  
+  
+  
+  .push_1, .pull_1,
+  .push_2, .pull_2,
+  .push_3, .pull_3,
+  .push_4, .pull_4 {
+	  position:relative;
+  }
+  
+  .alpha {
+	  margin-left: 0;
+  }
+  
+  .omega {
+	  margin-right: 0;
+  }
+  
+  
+  .container_4 .grid_1 {
+	  width:220px;
+  }
+  
+  .container_4 .navbarwrap {
+    width:220px;
+  }
+  
+  .container_4 .grid_2 {
+	  width:460px;
+  }
+  
+  .container_4 .grid_3 {
+    width:700px;
+  }
+  
+  .container_4 .grid_4 {
+	  width:940px;
+  }
+  
+  
+  .container_4 .prefix_1 {
+	  padding-left:240px;
+  }
+  
+  .container_4 .prefix_2 {
+	  padding-left:480px;
+  }
+  
+  .container_4 .prefix_3 {
+	  padding-left:720px;
+  }
+  
+  
+  .container_4 .suffix_1 {
+	  padding-right:240px;
+  }
+  
+  .container_4 .suffix_2 {
+	  padding-right:480px;
+  }
+  
+  .container_4 .suffix_3 {
+	  padding-right:720px;
+  }
+  
+  
+  .container_4 .push_1 {
+	  left:240px;
+  }
+  
+  .container_4 .push_2 {
+	  left:480px;
+  }
+  
+  .container_4 .push_3 {
+	  left:720px;
+  }
+  
+  
+  .container_4 .pull_1 {
+	  left:-240px;
+  }
+  
+  .container_4 .pull_2 {
+	  left:-480px;
+  }
+  
+  .container_4 .pull_3 {
+	  left:-720px;
+  }
+  
+  
+  .clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+  }
+  
+  
+  .clearfix:before,
+  .clearfix:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+  }
+  
+  .clearfix:after {
+	clear: both;
+  }
+  
+  .clearfix {
+	zoom: 1;
+  }

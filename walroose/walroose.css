@@ -1,0 +1,20 @@
+canvas { 
+    border: 1px solid black;
+    border-radius: 4px; 
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.67); 
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.67);
+}
+@font-face {
+    font-family: 'Nanami';
+    src: url('/walroose/Nanami-Rounded-Book.ttf');
+}
+
+body {
+    text-align: center;
+    font-family: 'Nanami';
+}
+
+textarea {
+    font-family: 'Nanami';
+    font-size: x-large;
+}
