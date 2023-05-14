@@ -23,4 +23,4 @@ jobs:
       with:
         ACCESS_TOKEN: ${{ secrets.repofuckingkey }}
         BRANCH: gh-pages
-        FOLDER: __sapper__/export/Saraistupid.github.io
+        FOLDER: __sapper__/export/
