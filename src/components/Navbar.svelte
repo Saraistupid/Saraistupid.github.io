@@ -37,6 +37,7 @@
     <div class="grid_1">
         <div class="pad2">
             <a class="links" href="about" style="color: white">About Me</a>
+            <a class="links" href="frens" style="color: white">Friends!!</a>
             <br>
         </div>
     </div>
