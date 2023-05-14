@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8"/>
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+    <title>Walroose Generator</title>
+    <link rel="stylesheet" href="walroose/walroose.css">
+    <script src="walroose/walroose.js"></script>
+</html>
+<body onload="startUp()">
+    <h1>Walroose Card Thing Generator</h1>
+    <p>Starpelly 2021</p>
+    <textarea id="textBox" placeholder="politics"></textarea>
+    <br>
+    <input type="file" id="imageLoader" name="imageLoader" accept="image/png, image/jpeg">
+    <br>
+    <button onclick="draw()">Apply</button>
+    <br>
+    <br>
+
+    <span style="font-family: Nanami;"></span>
+    <canvas id="canvas" width="1023" height="576"></canvas>
+    <br>
+    <br>
+    <button id="download-btn" onclick="download()">Download</button>
+    <p>Note: For Chromium-based browsers, you may need to click the "Apply" button multiple times for custom images to work.</p>
+</body>

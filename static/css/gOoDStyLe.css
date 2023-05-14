@@ -1,0 +1,457 @@
+/* Let's change the basic things
+----------------------------------------------------------------------------------------------------*/
+html,
+body {
+   margin:0;
+   padding:0;
+   min-height:1080px;
+}
+
+body {
+	font-family:Comic Sans MS, Helvetica, sans-serif;
+	color:#FFF;
+	text-align:justify;
+	font-size:15px;
+	overflow-y:scroll;
+	/*background: url('assets/floor.png') bottom left repeat-x, url('assets/circle.png') top center repeat;*/
+    background: url("https://i.imgur.com/OBg0cHi.gif");
+
+}
+
+/* breaks the website on firefox for some reason
+-------------------------------------------------------
+
+@keyframes scrollingbg {
+	from {
+		background-position: 0% 0%;
+	}
+	to {
+		background-position: -256px 0px;
+	}
+}
+-------------------------------------------------*/
+
+.image-container img
+{
+    border:3px solid #811d1d;
+    background-color:#000000;
+    padding:5px;
+    display:block;
+    margin:auto;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
+p {
+	padding-top:0px;
+	padding-bottom:0px;
+	margin:0px;
+	margin-bottom:15px;  /* make sure to fit UL */
+	line-height:1.5em;
+}
+
+h1 {
+	font-size:22px;
+	height:32px;
+	vertical-align:top;
+	font-weight:bold;
+	text-shadow:#000 2px 2px 2px;
+	margin: 0px -20px 6px -20px;
+	padding-left:20px;
+	padding-right:20px;
+	background: url('https://i.makeagif.com/media/4-11-2017/Apquga.gif') bottom;
+	background-repeat:no-repeat;
+}
+
+h2 {
+	font-size:18px;
+	font-weight:bold;
+	text-shadow:#000 2px 2px 2px;
+	margin-bottom:10px;
+	margin-top:0px;
+}
+
+ul {
+	margin:0;
+	margin-bottom:25px; /* make sure to fit P */
+	list-style-type: none;
+	padding:0;
+	padding-left:15px;
+}
+
+li {
+       margin-left:-15px;
+       background: url("https://thumbs.gfycat.com/MintyLightheartedCowbird-size_restricted.gif") no-repeat 0px 5px;
+       padding-left:15px;
+       margin-top:1em;
+}
+
+b {
+	text-shadow:2px 2px 1px #000;
+}
+
+/* Change the 960.gs things so it fits our needs */
+
+.container_4 {
+	padding-top:25px;
+}
+
+.grid_1,
+.grid_2,
+.grid_4 {
+	background-color:#333;
+    border-radius: 4px;
+}
+
+.grid_1 {
+	margin-bottom:10px;
+}
+
+.grid_3 {
+    border-radius: 10px;
+}
+
+/* Padding divs so content fits */
+
+.pad {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.pad2 {
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+}
+
+
+/*Logo container
+----------------------------------------------------------------------------------------------------*/
+
+#logocnt {
+   position:relative;
+   margin-left:-3px;
+   width: 230px;
+   height: 230px;
+}
+
+#clicklogo {
+   position:relative;
+   margin-left:10px;
+   display: block;
+   width: 230px;
+   height: 230px;
+   background: url('assets/pelly.png') 0px 0px;
+   outline:0;
+   background-repeat:no-repeat;
+   overflow:hidden;
+}
+
+
+/* Main Menubar
+----------------------------------------------------------------------------------------------------*/
+
+.menulink {
+	display:block;
+	position:relative;
+	height:69px;
+	width:200px;
+	margin-bottom:10px;
+	outline:0;
+	text-decoration:none;
+	color:#FFF;
+	border-width:0;
+	border-style:hidden;
+}
+
+.menulink:hover {
+	outline:#b64fca solid 2px;
+	outline-offset:-8px;
+	text-decoration:none;
+	color:#b64fca;
+	border-style:solid;
+}
+.menulink:visited {
+	text-decoration:none;
+	/*fix for chrome and ie7. surprise*/
+}
+
+.menulink .textcnt {
+	display:block;
+	position:absolute;
+	top:0;
+	left:0;
+	font-size:12px;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:6px;
+	padding-right:6px;
+	background:#111;
+	border-bottom-right-radius:5px;
+	border-right:#ffca5f 2px solid;
+	border-bottom:#ffca5f 2px solid;
+	border-top:#FFF 0px hidden;
+	border-left:#FFF 0px hidden;
+    border-style:inherit;
+    font-family: Papyrus;
+	
+	color:inherit;
+	font-weight:bold;
+}
+
+.menulink .wiptag {
+	/*MAURICE WANTED THIS*/
+	background-color:#400;
+}
+
+.links {
+    width:200px;
+	margin-bottom:10px;
+	display:inline-block;
+	background-position:0px 0px;
+}
+
+/*Social networks things container
+----------------------------------------------------------------------------------------------------*/
+.sociallink, .forumlink{
+	position:relative;
+	display:inline-block;
+	width: 32px;
+	height: 32px;
+	background-position:0px 0px;
+	outline:0;
+	margin:0;
+	margin-top:0px;
+	margin-right:15px;
+	margin-bottom:8px;
+    vertical-align:top;
+}
+
+.forumlink {
+	background-image:url('/images/forum_16.png');
+	margin-right:0;
+	width: 200px;
+	height: 16px;
+	margin-bottom:9px;
+    display:block;
+}
+
+.forumlink:hover{
+	background-position:0px 16px;
+}
+
+.sociallink:hover {
+    /*background-position:0px 32px;*/
+    transform: scale(1.19);
+    transition-duration: 0.5s;
+    opacity: .7;
+}
+
+.socialspacer {
+	display:none;
+	width:10px;
+	height:10px;
+}
+
+
+/*Content title bar container
+----------------------------------------------------------------------------------------------------*/
+
+.contenttitle {
+	height:120px;
+	width:660px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	font-family:"Popjoy", Arial, Helvetica, sans-serif;
+	padding:0px;
+	padding-left:20px;
+	padding-right:20px;
+	display:block;
+	position:relative;
+}
+
+.contenttitle p {
+	font-size:165px;
+	padding:0px;
+	top:-32px;
+	right: 190px;
+	position:absolute;
+	z-index:10;
+	cursor:default;
+	
+    line-height:normal;
+    background-color: #cdd680;
+}
+
+.contenttitle p.p2 {
+	color:#000;
+	top:14px;
+	left:24px;
+	text-shadow:none;
+	z-index:1;
+	/* LOOK WHAT YOU MADE ME DO IE */
+}
+
+/* Tab bar container
+----------------------------------------------------------------------------------------------------*/
+
+.tabbar {
+	position:absolute;
+	bottom:0;
+}
+
+.tabbar a {
+	display:inline-block;
+	font-size:16px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:60px;
+	padding-right:60px;
+	background:#111;
+	
+	border:0;
+	margin-right:10px;
+	
+	color:#DDD;
+	font-weight:bold;
+	outline:0;
+	text-decoration:none;
+	text-align:center;
+	
+	border-left:transparent 2px solid;
+	border-right:transparent 2px solid;
+	border-top:transparent 2px solid;
+	
+
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+}
+
+.dl-container {
+	padding-top:10px;
+	margin-left:-10px;
+	margin-right:-10px;
+	text-align:center;
+}
+
+.dl-container a {
+	display:inline-block;
+	width: 152px;
+	height: 57px;
+	background-position:top;
+	outline:0;
+	margin-left:9px;
+	margin-right:9px;
+}
+
+.dl-container a:hover {
+	background-position:bottom;
+}
+
+
+
+/* Screenshot resize thingy.
+----------------------------------------------------------------------------------------------------*/
+.scr-resize {
+	text-align:center;
+	background-color:#222;
+	margin-bottom:25px;
+	padding-top:8px;
+	padding-bottom:4px;
+	margin-top:-10px;
+	margin-left:-20px;
+	margin-right:-20px;
+	/*because P has padding below and this is supposed to come
+	after p. if it doesn't just MAKE MORE CSS*/
+}
+
+.scr-resize img {
+	display:inline-block;
+	height:120px;
+	width:120px;
+	margin:0;
+	margin-left:3px;
+	margin-right:3px;
+	border:#222 2px solid;
+	border-radius:7px;
+}
+
+.scr-resize img:hover {
+	border:#9BE 2px solid;
+}
+
+/* Tumblr stuff so stuff looks neat
+----------------------------------------------------------------------------------------------------*/
+#tumblrcontainer {
+	position:relative;
+}
+
+.tumblrcontainer img {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.article {
+	margin:-20px;
+	margin-top:-15px;
+	padding:20px;
+	position:relative;
+	padding-bottom:25px;
+	background-image:url('assets/articlebg.png');
+	background-position:top;
+	background-repeat:repeat-x;
+	min-height:300px;
+}
+
+.nobg {
+	background-image:none;	
+}
+
+.articledate {
+	float:right;
+	color:#DDD;
+	top:0;
+	left:0;
+	width:160px;
+	height:40px;
+	background-color:rgb(0, 65, 22);
+	text-align:center;
+	padding-right:20px;
+	border-radius:7px 0px 0px 7px;
+	margin-left:10px;
+	margin-right:-20px;
+	cursor:default;
+}
+.articleday {
+	height:42px;
+	font-size:20px;
+    font-weight:bold;
+    font-family: "Popjoy";
+}
+.articlemonth {
+	font-size:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+
+.articletitle{
+	position:absolute;
+	float:none;
+	top:27px;
+	left:20px;
+	height:32px;
+	width:590px;
+	font-size:22px;
+	font-weight:bold;
+	padding-right:20px;
+	
+	text-shadow:rgb(55, 0, 255) 0px 2px 2px;
+	background: url('https://thumbs.gfycat.com/MintyLightheartedCowbird-size_restricted.gif') bottom;
+	background-repeat:no-repeat;
+}
