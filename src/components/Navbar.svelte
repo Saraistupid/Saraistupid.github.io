@@ -57,9 +57,9 @@
         <div class="pad2">  
             <a class="menulink" href="/" style="background-image:url('../assets/Images/tabs/homepage.gif')">
             </a>
-            <a class="menulink" href="https://www.nicovideo.jp/" style="background-image:url('assets/Images/tabs/niconico.gif')">
+            <a class="menulink" href="https://rheavenstudio.github.io/" title='i did things for Heaven Studio i guess.' style="background-image:url('assets/Images/tabs/heavenstudio.png')">
             </a>
-            <a class="menulink" href="https://rheavenstudio.github.io/" style="background-image:url('assets/Images/tabs/heavenstudio.png')">
+            <a class="menulink" href="https://www.nicovideo.jp/" style="background-image:url('assets/Images/tabs/niconico.gif')">
             </a>
             <a class="menulink" href="https://www.youtube.com/watch?v=ddWJatRxfz8" style="background-image:url('assets/Images/tabs/octagon.gif')">
             </a>
@@ -71,9 +71,9 @@
             </a>
             <a class="menulink" href="https://knowyourmeme.com/" style="background-image:url('assets/Images/tabs/kym.png')">
             </a>
-            <a class="menulink" style="background-image:url('assets/Images/tabs/rhf.gif')">
+            <a class="menulink" href="https://rhythmheaven.fandom.com/wiki/Rhythm_Heaven_Fever" style="background-image:url('assets/Images/tabs/rhf.gif')">
             </a>
-            <a class="menulink" style="background-image:url('assets/Images/tabs/windows9.png')">
+            <a class="menulink" href="/blog/win-81" style="background-image:url('assets/Images/tabs/windows9.png')">
             </a>
      </div>
     </div>
