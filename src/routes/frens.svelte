@@ -39,7 +39,7 @@
                     <h2>Rin</h2>
                     <p>Some Belarusian faggot I know from cunny Twitter, that man claims to be in his 20s yet he sounds like he's going to hit his 40s, that guy is probably on 3 different watchlists because of his takes and the shit he said. He only uses Discord and 9gag nowadays, <a href="https://9gag.com/u/satsuki_rin">here's his profile on 9gag.</a>
                     <br>
-                    "I wanna work as that and stalk teens on the internet" - Pseudo Saint (2023)
+                    "I wanna work as that and stalk teens on the internet" - Rin (2023)
                     <br>
 
                     <h2>Ramendan</h2>
