@@ -35,6 +35,8 @@
                         <br>
                         - I'm naturally tanned.
                         <br>
+                        - I'm British, French, Brazilian, Turkish, Arab, Thai, Jewish, Christian, and Muslim by blood.
+                        <br>
                         - I'm Egyptian. 🇪🇬
                         <br>
                         - I'm a transfem. 🏳️‍⚧️
@@ -74,10 +76,14 @@
                         Want to talk to me? Want to tell me how much of a retard I am?
                         <br>
                         Message me on Discord at Saraistupid#5127, or on GitHub @Saraistupid, or on Telegram @Saraistupid, or on Twitter @FishFuckingCEO.
+                        <br>
+                        And if you feel like wasting your money you can donate me some shekels
+                        <br>
+                        <br>
+                        <iframe id='kofiframe' src='https://ko-fi.com/saraistupid/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='256' title='saraistupid'></iframe>
                     </p>
                 </div>
             </div>
-
             <div id="disqus_thread"></div>
         <script>
             (function() { // DON'T EDIT BELOW THIS LINE
