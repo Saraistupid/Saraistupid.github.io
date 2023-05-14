@@ -32,7 +32,8 @@
                     <p>One of my besties, someone that is really close to me and my girlfriend, though she keeps acting like a pedo bait for some reason. You can check out her Twitter <a href="https://twitter.com/rushia27">here!</a>
                     <br>
 
-
+                    <h3>TUCO</h3>
+                    <p>An edgy kid in his early teens, he's really retarded and impulsive, but is a nice person if you get to know him enough. <a href="https://twitter.com/ceo_of_sexim">His twitter</a>
                 </p>
                 </div>
             </div>
