@@ -20,9 +20,18 @@
                     This is a list of my online friends, if you'd like to be added here contact me.
                 </h2>
                 <p>
-                    <h3>Aradia (AKA. Diana)</h3>
-                    <p>My online best friend, she's a really cool person who's almost like me, here's her <a href="https://github.com/AradiaIsStupid/">github</a>!
+                    <h3>Lusii (My girlfriend)</h3>
+                    <p>My girlfriend since 10/10/2020, she means a lot to me and we've done so much for each other, here's her <a href="https://twitter.com/Lusii_Meow">Twitter!</a>
                     <br>
+
+                    <h3>Aradia (AKA. Diana)</h3>
+                    <p>My online best friend (not even bestie, my literal best friend), she's a really cool person who's almost like me, here's her <a href="https://github.com/AradiaIsStupid/">GitHub</a>!
+                    <br>
+
+                    <h3>Rushia</h3>
+                    <p>One of my besties, someone that is really close to me and my girlfriend, though she keeps acting like a pedo bait for some reason. You can check out her Twitter <a href="https://twitter.com/rushia27">here!</a>
+                    <br>
+
 
                 </p>
                 </div>
