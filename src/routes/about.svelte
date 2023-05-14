@@ -70,6 +70,19 @@
                     </p>
                     <br>
                     <h1>
+                        Works I've done
+                    </h1>
+                    <p>
+                        I haven't done much to be honest.
+                        <br>
+                        My main contributions are to the <a href="https://rheavenstudio.github.io/docs/intro">Heaven Studio</a> project, I maintain the documentations and did the Linux and MacOS fixes for the editor itself.
+                        <br>
+                        I also had an internet radio called Troontunes that will hopefully be online again if I ever find a host for it.
+                        <br>
+                        Two of my Rhythm Heaven custom remixes are worth mentioning too: <a href="https://youtu.be/5srPHovbEs4">MrBeast Stole The Precious Thing</a> and <a href="https://youtu.be/b2wn_ORk0J4">Roddy Ricch - Ballin</a>
+                    </p>
+                    <br>
+                    <h1>
                         Contact
                     </h1>
                     <p>
