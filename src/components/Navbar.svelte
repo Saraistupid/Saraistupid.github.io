@@ -29,6 +29,8 @@
                 <a class="sociallink" style="background-image:url('assets/Images/social/github32.png');" title="Github" target="_blank" href="https://github.com/Saraistupid"> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/twitter32.png');" title="Twitter" target="_blank" href="https://twitter.com/FishFuckingCEO"> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/lastfm32.png');" title="Last.FM" target="_blank" href="https://www.last.fm/user/Saraistupid"> </a>
+                <a class="sociallink" style="background-image:url('assets/Images/social/spacehey32.png');" title="Spacehey" target="_blank" href="https://spacehey.com/saraistupid"> </a>
+                <a class="sociallink" style="background-image:url('assets/Images/social/myanimelist32.png');" title="MyAnimeList" target="_blank" href="https://myanimelist.net/profile/Saraistupid"> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/kofi32.png');" title="Ko-fi (I NEED MONEY 😭)" target="_blank" href="https://ko-fi.com/saraistupid"> </a>
             </div>
         </div>
