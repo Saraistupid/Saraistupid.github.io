@@ -78,7 +78,7 @@
             </a>
             <a class="menulink" href="https://rhythmheaven.fandom.com/wiki/Rhythm_Heaven_Fever" style="background-image:url('assets/Images/tabs/rhf.gif')">
             </a>
-            <a class="menulink" href="https://genderdysphoria.fyi/" style="background-image:url('assets/Images/tabs/gdfyi.png')">
+            <a class="menulink" href="https://genderdysphoria.fyi/" title="i don't fully believe in everything this site says, but it has most information needed to start your research on gender dysphoria." style="background-image:url('assets/Images/tabs/gdfyi.png')">
             </a>
             <a class="menulink" href="/blog/win-81" style="background-image:url('assets/Images/tabs/windows9.png')">
             </a>
