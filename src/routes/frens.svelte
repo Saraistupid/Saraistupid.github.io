@@ -37,7 +37,7 @@
                     <br>
 
                     <h2>Rushia</h2>
-                    <p>One of my besties, someone that is really close to me and my girlfriend, though she keeps acting like a pedo bait for some reason. You can check out her Twitter <a href="https://twitter.com/rushia27">here!</a>
+                    <p>One of my besties (and AnCom pets), someone that is really close to me and my girlfriend, though she keeps acting like a pedo bait for some reason. You can check out her Twitter <a href="https://twitter.com/rushia27">here!</a>
                     <br>
 
                     <h2>TUCO</h2>
