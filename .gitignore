@@ -5,3 +5,4 @@ yarn-error.log
 /__sapper__/
 src/node_modules/@sapper/internal/manifest-client.mjs
 src/node_modules/@sapper/service-worker.js
+src/node_modules/@sapper/service-worker.js
