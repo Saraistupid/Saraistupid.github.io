@@ -38,6 +38,7 @@
         <div class="pad2">
             <a class="links" href="about" style="color: white">About Me</a>
             <a class="links" href="frens" style="color: white">Friends!!</a>
+            <a class="links" href="dni" style="color: white">DNI List</a>
             <br>
         </div>
     </div>
