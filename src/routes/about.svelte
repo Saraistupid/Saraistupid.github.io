@@ -24,7 +24,7 @@
                         What I do with my life
                     </h1>
                     <p>
-                        I make Rhythm Heaven custom remixes for now, I'm planning on becoming a lolicore producer at some point, I also regularly make bait tweets and be an edgy bigot on Twitter, I got told I'm a nice person to talk to and interact with in private, which I do not believe but meh.
+                        I was previously making Rhythm Heaven custom remixes, I'm trying to find other hobbies for now, I'm planning on becoming a lolicore producer at some point, I also regularly make bait tweets and be an edgy bigot on Twitter, I got told I'm a nice person to talk to and interact with in private, which I do not believe but meh.
                     </p>
                     <br>
                     <h1>
@@ -75,7 +75,7 @@
                     <p>
                         I haven't done much to be honest.
                         <br>
-                        My main contributions are to the <a href="https://rheavenstudio.github.io/docs/intro">Heaven Studio</a> project, I maintain the documentations and did the Linux and MacOS fixes for the editor itself.
+                        My main contributions are to the <a href="https://rheavenstudio.github.io/docs/intro">Heaven Studio</a> project, I used to maintain the documentations, I also did the Linux and MacOS fixes for the editor itself.
                         <br>
                         I also had an internet radio called Troontunes that will hopefully be online again if I ever find a host for it.
                         <br>
