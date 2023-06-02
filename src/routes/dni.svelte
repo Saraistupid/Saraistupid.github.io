@@ -20,31 +20,31 @@
                     <br>
                     <br>
                     <h1>My DNI list is as following:</h1>
-                    <h3>Cucks or cheaters (in relationships)</h3>
-                        <p>You are honestly the scum of earth if you are into cuckold and find it hot, same for anyone who cheats and finds it a good thing to do.
+                    <h3>Cucks or cheaters in relationships</h3>
+                    <p>You're honestly the scum of earth if you're into being cucked or you find cheating moral.</p>
 
                     <h3>Annoyingly retarded people</h3>
-                    <p>I don't have to explain this one, you get what I mean.
+                    <p>Being retarded is one thing, but being the annoying kind of retarded is something else.</p>
 
                     <h3>People who make their ideology/opinions/fetishes/kinks their entire personality</h3>
-                    <p>Please shut the fuck up and consider getting a fucking life if you do that :3
+                    <p>Consider getting a life please. There's so much you could possibly talk about in the little time we have on earth, yet you waste it talking about this kind of shit.</p>
 
-                    <h3>Niggers who make jokes about abusing their (future) children</h3>
-                    <p>It isn't funny, it's disgusting, you should fucking kill yourself if you even consider anything like that remotely funny.
+                    <h3>Cunts who make jokes about abusing children</h3>
+                    <p>You are genuinely disgusting. It's harrowing to acknowledge how people like you can exist. Whether you're joking or not, your intentions harm people - but trying to make light of it using jokes is a completely other realm of shittiness that you have entered. Jokes are supposed to be funny.</p>
                     <br>
                     <br>
                     <h2>FAQ:</h2>
                     <h3>Why aren't the usual stuff like "homophobes" or "transphobes" on here?</h3>
-                    <p>Because it's incredibly retarded to add that, they'd interact even more if I put them here, and I honestly don't care about them.</p>
+                    <p>If I added that, many homophobes and transphobes would only interact <i>more</i> with my own website and social medias than if I simply didn't mention it at all - so no, I won't include obvious shit.</p>
 
-                    <h3>Anyone of an extremist political ideology?</h3>
-                    <p>I believe in an extremist political ideology</p>
+                    <h3>Anyone who affiliates with an extremist political ideology?</h3>
+                    <p>I myself believe in an extremist political ideology. Extremism isn't an inherently bad thing.</p>
 
-                    <h3>Well, what about pro-fiction/proship?</h3>
-                    <p>I do not care if you are either, infact, go on buddy, do whatever you want.</p>
+                    <h3>What about profictioners or proshippers?</h3>
+                    <p>Couldn't care less. You have your own individual liberties that I don't want to step on, so go for it.</p>
 
-                    <h3>Pedophiles? Zoos? Necros? Any of those?</h3>
-                    <p>I don't care either, as long they are non-contact/anti-contact, why should I care?</p>
+                    <h3>Pedophiles? Zoophiles? Necrophiles? Any other strange paraphilic disorder?</h3>
+                    <p>Attraction is developed through a person's life and no amount of therapy or counseling would ever 'cure' or 'fix' you. If you are anti-contact and especially non-contact, then I can't possibly care to restrict you from my own spaces because of an attraction you have no chance of controlling.</p>
                     <br>
                     <br>
                 </div>
