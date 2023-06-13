@@ -31,6 +31,9 @@
 
                     <h3>Niggers who make jokes about abusing their (future) children</h3>
                     <p>It isn't funny, it's disgusting, you should fucking kill yourself if you even consider anything like that remotely funny.
+
+                    <h3>People who microwave their drinks</h3>
+                    <p>kill yourself if you do that.
                     <br>
                     <br>
                     <h2>FAQ:</h2>
