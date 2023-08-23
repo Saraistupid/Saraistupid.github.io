@@ -35,13 +35,13 @@
                         <br>
                         - I'm naturally tanned.
                         <br>
-                        - I'm British, French, Brazilian, Turkish, Arab, Thai, Jewish, Christian, and Muslim by blood.
+                        - I'm mixed-race of Turkish, Jewish, Arab, Thai, British, French, and Brazilian, I am muslim by blood and currently agnostic.
                         <br>
                         - I'm Egyptian. 🇪🇬
                         <br>
                         - I'm a transfem. 🏳️‍⚧️
                         <br>
-                        - I actually pass unlike a good amount of trannies.
+                        - According to most people that have saw me (and strangers irl), I pass.
                         <br>
                         - I use a Arch Linux with the KDE Plasma dekstop enviornment, I also have Hackintosh High Sierra installed.
                         <br>

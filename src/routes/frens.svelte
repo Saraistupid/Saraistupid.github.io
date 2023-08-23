@@ -36,12 +36,22 @@
                     She has a <a href="https://twitter.com/Ashiodyne">Twitter</a> but she isn't active there at all.
                     <br>
 
-                    <h2>Rushia</h2>
-                    <p>One of my besties (and AnCom pets), someone that is really close to me and my girlfriend, though she keeps acting like a pedo bait for some reason. You can check out her Twitter <a href="https://twitter.com/rushia27">here!</a>
+                    <h2>Noelle (AKA. dumbcatnya, catfox, cat)</h2>
+                    <p>One of my besties (and AnCom pets), someone that is really close to me and my girlfriend, though she keeps acting like a pedo bait for some reason. You can check out her Twitter <a href="https://twitter.com/dumbcatnya">here!</a>
+                    <br>
+
+                    <h2>Allan (aka. d2lta)</h2>
+                    <p>"Twilight Sparkle's biggest fan" - Allan
+                    <br>
+                    <p>She's a really nice person that I've met through TUC0, all I know about her is that she's autistic, an artist, and is australian, she's a huge moe whore and is one of the kindest people I've talked to, make sure to check out <a href="https://lmaguire101.neocities.org/">her website!</a>
                     <br>
 
                     <h2>TUCO</h2>
                     <p>An edgy kid in his early teens, he's really retarded and impulsive, but is a nice person if you get to know him enough, and contrary to popular belief, he has a girlfriend, even though his community and the circles he's in is full of a bunch of incels. <a href="https://twitter.com/ceo_of_sexim">His twitter</a>
+                    <br>
+
+                    <h2>jakanz (AKA. jaiden)</h2>
+                    <p>Some tranny I just met recently, she seems cool, please bully her on <a href="https://twitter.com/jakanzik">Twitter</a> for me, she has a <a href="https://jakanz.github.io/">website</a> too!!
                     <br>
 
                     <h2>Rin</h2>
@@ -52,10 +62,6 @@
 
                     <h2>Ramendan</h2>
                     <p>The only Omani guy I know, a really nice person, he will never be a real woman !!, I don't have much else to say, just have his Discord ramendan#4655.
-                    <br>
-
-                    <h2>jakanz (AKA. jaiden)</h2>
-                    <p>Some tranny I just met recently, she seems cool, please bully her on <a href="https://twitter.com/jakanzik">Twitter</a> for me, she has a <a href="https://jakanz.github.io/">website</a> too!!
                     <br>
                 </p>
                 </div>

@@ -24,7 +24,7 @@
                         <p>You are honestly the scum of earth if you are into cuckold and find it hot, same for anyone who cheats and finds it a good thing to do.
 
                     <h3>Annoyingly retarded people</h3>
-                    <p>I don't have to explain this one, you get what I mean.
+                    <p>Being retarded to the point it gets to my nerves is such a low.
 
                     <h3>People who make their ideology/opinions/fetishes/kinks their entire personality</h3>
                     <p>Please shut the fuck up and consider getting a fucking life if you do that :3
@@ -41,13 +41,13 @@
                     <p>Because it's incredibly retarded to add that, they'd interact even more if I put them here, and I honestly don't care about them.</p>
 
                     <h3>Anyone of an extremist political ideology?</h3>
-                    <p>I believe in an extremist political ideology</p>
+                    <p>I myself believe in an extremist political ideology, it's not a bad thing on its own</p>
 
                     <h3>Well, what about pro-fiction/proship?</h3>
-                    <p>I do not care if you are either, infact, go on buddy, do whatever you want.</p>
+                    <p>I do not care if you are either, no one in real life is being hurt in fiction.</p>
 
                     <h3>Pedophiles? Zoos? Necros? Any of those?</h3>
-                    <p>I don't care either, as long they are non-contact/anti-contact, why should I care?</p>
+                    <p>I don't care either, as long they are non-contact/anti-contact, why should I care? An attraction on it's own isn't inherintely bad, and is not curable, as long no one is hurt, I do not care.</p>
                     <br>
                     <br>
                 </div>
