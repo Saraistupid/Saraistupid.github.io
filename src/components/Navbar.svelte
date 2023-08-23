@@ -70,7 +70,7 @@
             </a>
             <a class="menulink" href="https://awesomeville.neocities.org/" style="background-image:url('assets/Images/tabs/h4xxor.png')">
             </a>
-            <a class="menulink" href="https://mitskimash.neocities.org/" style="background-image:url('assets/Images/tabs/beppit.png')">
+            <a class="menulink" href="https://mitskimash.neocities.org/" style="background-image:url('assets/Images/tabs/beppit.gif')">
             </a>
             <a class="menulink" href="https://jakanz.github.io/" style="background-image:url('assets/Images/tabs/jakanz.gif')">
             </a>
@@ -86,7 +86,7 @@
             </a>
             <a class="menulink" href="https://3ds.hacks.guide/" style="background-image:url('assets/Images/tabs/3ds.png')">
             </a>
-            <a class="menulink" href="https://hshop.erista.me/t/1983/" style="background-image:url('assets/Images/tabs/miku.png')">
+            <a class="menulink" href="https://hshop.erista.me/t/1983/" style="background-image:url('assets/Images/tabs/miku.gif')">
             </a>
             <a class="menulink" href="https://genderdysphoria.fyi/" title="i don't fully believe in everything this site says, but it has most information needed to start your research on gender dysphoria." style="background-image:url('assets/Images/tabs/gdfyi.png')">
             </a>
