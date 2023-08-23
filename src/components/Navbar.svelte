@@ -62,17 +62,21 @@
             </a>
             <a class="menulink" href="https://rheavenstudio.github.io/" title='i did things for Heaven Studio i guess.' style="background-image:url('assets/Images/tabs/heavenstudio.png')">
             </a>
+            <a class="menulink" href="https://starpelly.com" title='fuck you pelly for putting me above the hacka doll tab on your website, you caused total tranny death by doing that.' style="background-image:url('assets/Images/tabs/starpelly.gif')">
+            </a>
+            <a class="menulink" href="https://myanimelist.net/anime/1887/Lucky%E2%98%86Star" title='i jacked off to futanari konata porn at least 2000 times at this point' style="background-image:url('assets/Images/tabs/luckystar.png')">
+            </a>
+            <a class="menulink" href="https://lmaguire101.neocities.org/" style="background-image:url('assets/Images/tabs/d2lta.png')">
+            </a>
+            <a class="menulink" href="https://awesomeville.neocities.org/" style="background-image:url('assets/Images/tabs/h4xxor.png')">
+            </a>
+            <a class="menulink" href="https://jakanz.github.io/" style="background-image:url('assets/Images/tabs/jakanz.gif')">
+            </a>
             <a class="menulink" href="https://www.nicovideo.jp/" style="background-image:url('assets/Images/tabs/niconico.gif')">
             </a>
             <a class="menulink" href="https://www.youtube.com/watch?v=ddWJatRxfz8" style="background-image:url('assets/Images/tabs/octagon.gif')">
             </a>
             <a class="menulink" href="https://www.reddit.com/r/unixporn" style="background-image:url('assets/Images/tabs/unixporn.png')">
-            </a>
-            <a class="menulink" href="https://starpelly.com" title='fuck you pelly for putting me above the hacka doll tab on your website, you caused total tranny death by doing that.' style="background-image:url('assets/Images/tabs/starpelly.gif')">
-            </a>
-            <a class="menulink" href="https://myanimelist.net/anime/1887/Lucky%E2%98%86Star" title='i jacked off to futanari konata porn at least 2000 times at this point' style="background-image:url('assets/Images/tabs/luckystar.png')">
-            </a>
-            <a class="menulink" href="https://jakanz.github.io/" style="background-image:url('assets/Images/tabs/jakanz.gif')">
             </a>
             <a class="menulink" href="https://knowyourmeme.com/" style="background-image:url('assets/Images/tabs/kym.png')">
             </a>
