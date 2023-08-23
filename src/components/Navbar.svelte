@@ -86,7 +86,6 @@
             </a>
             <a class="menulink" href="https://3ds.hacks.guide/" style="background-image:url('assets/Images/tabs/3ds.png')">
             </a>
-            </a>
             <a class="menulink" href="https://hshop.erista.me/t/1983/" style="background-image:url('assets/Images/tabs/miku.png')">
             </a>
             <a class="menulink" href="https://genderdysphoria.fyi/" title="i don't fully believe in everything this site says, but it has most information needed to start your research on gender dysphoria." style="background-image:url('assets/Images/tabs/gdfyi.png')">
