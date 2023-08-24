@@ -88,7 +88,7 @@
                     <p>
                         Want to talk to me? Want to tell me how much of a retard I am?
                         <br>
-                        Message me on Discord at Saraistupid#5127, or on GitHub @Saraistupid, or on Telegram @Saraistupid, or on Twitter @FishFuckingCEO.
+                        Message me on Discord at Saraistupid#5127, or on GitHub @Saraistupid, or on Telegram @Saraistupid, or on Twitter @sarafuckindumb.
                         <br>
                         And if you feel like wasting your money you can donate me some shekels
                         <br>
