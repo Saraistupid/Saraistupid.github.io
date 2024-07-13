@@ -27,7 +27,7 @@
             <div>
                 <a class="sociallink" style="background-image:url('assets/Images/social/youtube32.png');" title="YouTube" target="_blank" href="https://youtube.com/@saraistupid" alt=""> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/github32.png');" title="Github" target="_blank" href="https://github.com/Saraistupid"> </a>
-                <a class="sociallink" style="background-image:url('assets/Images/social/twitter32.png');" title="Twitter" target="_blank" href="https://twitter.com/sarafuckindumb"> </a>
+                <a class="sociallink" style="background-image:url('assets/Images/social/twitter32.png');" title="Twitter" target="_blank" href="https://twitter.com/trooncore"> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/lastfm32.png');" title="Last.FM" target="_blank" href="https://www.last.fm/user/Saraistupid"> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/spacehey32.png');" title="Spacehey" target="_blank" href="https://spacehey.com/saraistupid"> </a>
                 <a class="sociallink" style="background-image:url('assets/Images/social/myanimelist32.png');" title="MyAnimeList" target="_blank" href="https://myanimelist.net/profile/Saraistupid"> </a>
@@ -35,15 +35,15 @@
             </div>
         </div>
     </div>
-
+<!--
     <div class="grid_1">
         <div class="pad2">
             <a class="links" href="about" style="color: white">About Me</a>
-            <a class="links" href="frens" style="color: white">Friends!!</a>
             <a class="links" href="dni" style="color: white">DNI List</a>
             <br>
         </div>
     </div>
+-->
 <!--
     <div class="grid_1">
         <div class="pad2">
@@ -60,18 +60,22 @@
         <div class="pad2">  
             <a class="menulink" href="/" style="background-image:url('../assets/Images/tabs/homepage.gif')">
             </a>
+            <!--
             <a class="menulink" href="https://rheavenstudio.github.io/" title='i did things for Heaven Studio i guess.' style="background-image:url('assets/Images/tabs/heavenstudio.png')">
             </a>
+            -->
             <a class="menulink" href="https://starpelly.com" title='fuck you pelly for putting me above the hacka doll tab on your website, you caused total tranny death by doing that.' style="background-image:url('assets/Images/tabs/starpelly.gif')">
             </a>
             <a class="menulink" href="https://myanimelist.net/anime/1887/Lucky%E2%98%86Star" title='i jacked off to futanari konata porn at least 2000 times at this point' style="background-image:url('assets/Images/tabs/luckystar.png')">
             </a>
+            <!--
             <a class="menulink" href="https://lmaguire101.neocities.org/" style="background-image:url('assets/Images/tabs/d2lta.png')">
             </a>
             <a class="menulink" href="https://awesomeville.neocities.org/" style="background-image:url('assets/Images/tabs/h4xxor.png')">
             </a>
             <a class="menulink" href="https://mitskimash.neocities.org/" style="background-image:url('assets/Images/tabs/beppit.gif')">
             </a>
+            -->
             <a class="menulink" href="https://jakanz.github.io/" style="background-image:url('assets/Images/tabs/jakanz.gif')">
             </a>
             <a class="menulink" href="https://www.nicovideo.jp/" style="background-image:url('assets/Images/tabs/niconico.gif')">

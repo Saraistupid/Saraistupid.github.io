@@ -16,7 +16,7 @@
                         About</a>
                 </div>
                 <div class="articlebody">
-                    <p>My name is Sara (aka. Saraistupid or Saradumbass or SaraRetard on the interwebs), you probably know me from Twitter or Discord.
+                    <p>My name is Sara, you probably know me from Twitter or Discord.
                     </p>
                     <br>
                     <br>

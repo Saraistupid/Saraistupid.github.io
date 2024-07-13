@@ -1,7 +1,7 @@
 <script>
     import Navbar from '../components/Navbar.svelte'
 </script>
-
+<!-- this is from Starpelly, this is not mine. -->
 <div class="container container_4">
     <Navbar></Navbar>
 
