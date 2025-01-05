@@ -1,6 +1,6 @@
 # Saraistupid's osu! Skin
 
-This is the skin I use for osu!, the "Edit" version is my edited version of the original skin (that I think I got from here: https://osu.ppy.sh/community/forums/topics/305488?n=1).
+This is the skin I use for osu!, the "Edit" version is my edited version of the original skin (that I **think** I got from here: https://osu.ppy.sh/community/forums/topics/305488?n=1).
 
 ### Changelog:
 <details>
@@ -11,6 +11,7 @@ This is the skin I use for osu!, the "Edit" version is my edited version of the 
     - LNs use a taiko note at the tails
     
     - Delete some useless files, as I only play on Lazer
+    
 </details>
 
 <details>
